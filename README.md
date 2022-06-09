@@ -13,11 +13,11 @@ UX Designe d'une application mobile pour le Portail étudiant UQAM
 
 ## Auteurs
 ### UX Design - Figma
-Hamza Yahi
-Yacine Sehboub
-Adel Ouldzeid
-Yassine Tahiri
-Ayoub Baia
+- Hamza Yahi
+- Yacine Sehboub
+- Adel Ouldzeid
+- Yassine Tahiri
+- Ayoub Baia
 
 ### Présentation et démo - Photoshop
 Yacine Sehboub
