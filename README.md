@@ -1,7 +1,7 @@
 # Portail UQAM - Redesign
 UX Designe d'une application mobile pour le Portail étudiant UQAM
 
-![img_couverture](demo_frames\exterieur\exterieur_demo.jpg)
+![img_figma](autres/exterieur.JPG)
 
 ![img_figma](autres/figma.JPG)
 
@@ -10,6 +10,17 @@ UX Designe d'une application mobile pour le Portail étudiant UQAM
 **Lien Figma:** https://www.figma.com/file/eiEOCM2ZiN8o23jiCIUsqQ/Portail-UQAM?node-id=858%3A4632 
 
 **Présentation animée:** https://youtu.be/S5iBCSLOyqY
+
+## Auteurs
+### UX Design - Figma
+Hamza Yahi
+Yacine Sehboub
+Adel Ouldzeid
+Yassine Tahiri
+Ayoub Baia
+
+### Présentation et démo - Photoshop
+Yacine Sehboub
 
 # Présentation du cours
 Dans le cadre du cours Interfaces Personnes-machines, nous avons conçu des interfaces personnes-machines à l'aide de méthodes éprouvées. Ils nous ont été présentés des matériels de support pour les interfaces et des modèles cognitifs et typologie des utilisateurs. De plus, nous ont aussi été présentés des outils d'aide à la conception des interfaces.
