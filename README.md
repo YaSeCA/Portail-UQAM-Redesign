@@ -1,7 +1,7 @@
 # Portail UQAM - Redesign
 UX Designe d'une application mobile pour le Portail étudiant UQAM
 
-![img_figma](autres/exterieur.JPG)
+![img_figma](https://github.com/YaSeCA/Portail-UQAM-Redesign/blob/master/autres/exterieur.jpg)
 
 ![img_figma](autres/figma.JPG)
 
